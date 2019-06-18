@@ -69,5 +69,6 @@ design files for the harvester on wheels :
 * Insert the butcher blade and link it to the side plate on the drill side.
 
 
-![CC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
-This work is licensed under the [Creative Commons license](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+![CC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+
+This work is licensed under the [Creative Commons license](https://creativecommons.org/licenses/by/4.0/)
