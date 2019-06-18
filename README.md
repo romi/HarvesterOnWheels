@@ -5,7 +5,7 @@
 design files for the harvester on wheels :
 * /2d: dxf files for laser cut parts
 * /3d: f3z and stp design files
-* /Harvester_on_wheel_Drawing.pdf: design files with measures
+* /drawing: design files as drawing with measures
 
 
 ## Bill of materials
@@ -65,6 +65,7 @@ design files for the harvester on wheels :
 * Attach pieces of rope to the wire and roll it around the threaded shaft.
 * Attach side plates and blade plates 1, 2, 3 with angle brackets.
 * Attach the side plates to the frame with post-assembly M5 fastening bolts and flanged nuts.
+* Sew the fabric as shown on the drawing.
 * Attach the fabric to the frame and under the blade plate.
 * Insert the butcher blade and link it to the side plate on the drill side.
 
