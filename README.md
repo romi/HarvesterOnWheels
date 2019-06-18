@@ -5,15 +5,17 @@ design files for the harvester on wheels :
 * /Harvester_on_wheel_Drawing.pdf: design files with measures
 
 
-##Bill of materials
+## Bill of materials
 
-###Wheels
+### Wheels
+
 |N°||Designation ETRTO|Qty|
 |---|---|---|---|
 |1|Front wheel|47-203|2|
 |2|Rear wheel|47-406|2|
 
-###Frame
+### Frame
+
 |N°|Designation|Length|Qty|
 |---|---|---|---|
 |1|Rear fork||4|
@@ -27,7 +29,8 @@ design files for the harvester on wheels :
 |9|Profile 20x20 |106|4|
 |10|Angle Brackets||2|
 
-###Harvesting tool
+### Harvesting tool
+
 |N°|Designation|Qty|
 |---|---|---|
 |1| Greens Harvester plate (drill side)|1|
@@ -39,8 +42,8 @@ design files for the harvester on wheels :
 |7|Blade Plate 3|1|
 |8|Butcher bandsaw blade|1|
 
-##Assembly instrtuctions
+## Assembly instrtuctions
 
-###Frame
+### Frame
 
-###Harvesting tool
+### Harvesting tool
