@@ -1,4 +1,7 @@
 # HarvesterOnWheels
+
+**Harvesting mixed salads is a painful task when done by hands and there are existing tools to ease the cutting of these plants. Hacking on this, we propose to build a mixed salad harvester. We make the blade larger so that it can harvest all salads in one pass on the the culture bed and we put the machine on wheels so that it is easy to handle.**
+
 design files for the harvester on wheels :
 * /2d: dxf files for laser cut parts
 * /3d: f3z and stp design files
@@ -41,9 +44,30 @@ design files for the harvester on wheels :
 |6|Blade Plate 2|1|
 |7|Blade Plate 3|1|
 |8|Butcher bandsaw blade|1|
+|9| Angle brackets|2|
+|10| Rope 340 | 100|
+|11| Wire 3000 |1|
+|12| Outdoor fabric||
 
-## Assembly instrtuctions
+
+## Assembly instructions
 
 ### Frame
 
+* Where the profile make a right angle use fastening bracket for asembly (36 of them).
+* For the other assembly points use joints (8 of them).
+* Attach the rear fork with post-assembly M5 fastening bolts and flanged nuts.
+* Drill holes depending on the wheels and angle brackets and fix the square tubes with angles brackets.
+
 ### Harvesting tool
+
+* Cut side plates at the corner on each side of the Greens Harvester.
+* Attach pieces of rope to the wire and roll it around the threaded shaft.
+* Attach side plates and blade plates 1, 2, 3 with angle brackets.
+* Attach the side plates to the frame with post-assembly M5 fastening bolts and flanged nuts.
+* Attach the fabric to the frame and under the blade plate.
+* Insert the butcher blade and link it to the side plate on the drill side.
+
+
+![CC](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+This work is licensed under the [Creative Commons license](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
